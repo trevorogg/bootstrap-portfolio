@@ -1,0 +1,60 @@
+.blue-header{
+background-color: #4aaaa5;
+color: white;
+font-family: 'Georgia', Times, Times New Roman, serif;
+}
+
+body{
+    background-image:url(gplaypattern.png);
+    height: 800px;
+}
+
+.container{
+
+}
+
+#aboutMe{
+    color: #4aaaa5;
+    font-family: 'Georgia', Times, Times New Roman, serif;
+    font-size: 28px;
+    padding-top: 30px;
+}
+
+.connect{
+    color: #4aaaa5;
+    font-family: 'Georgia', Times, Times New Roman, serif;
+    font-size: 20px;
+    text-align: center;
+
+}
+
+#connectTitle{
+    padding-top: 15px;
+}
+
+.page-block{
+    background-color: #fff;
+}
+
+.navbar-fixed-bottom{
+    background-color: #666666;
+    color: #bebebe;
+    text-align: center;
+}
+
+.portfolio{
+    background-color: #4aaaa5;
+    color: white;
+    font-family: 'Georgia', Times, Times New Roman, serif;
+    text-align: center;
+}
+
+
+.img-fluid{
+    max-width: 70%;
+    height: auto; 
+}
+
+.centered{
+    text-align: center;
+}
